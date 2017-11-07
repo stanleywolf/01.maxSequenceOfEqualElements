@@ -1,0 +1,2 @@
+# 01.maxSequenceOfEqualElements
+listsExercise
